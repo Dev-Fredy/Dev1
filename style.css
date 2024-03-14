@@ -62,3 +62,10 @@ footer {
 .category {
     text-align: center;
 }
+
+
+h5,footer-nav{
+
+    text-decoration: none;
+    color: whitesmoke;
+}
